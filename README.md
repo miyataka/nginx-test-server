@@ -15,6 +15,9 @@
 ## How to run
 ```bash
 docker build . -q | xargs -I {} docker run  -p 8080:80 {}
+
+# or you can pull the image from docker hub
+docker pull miyataka/nginx-test-server:latest
 ```
 
 
