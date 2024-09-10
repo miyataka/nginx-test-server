@@ -50,3 +50,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues for bug reports or feature requests, or create a pull request on the GitHub repository.
+
+## Alternatives
+- [httpstat.us](https://httpstat.us/)
