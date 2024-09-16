@@ -32,6 +32,9 @@ docker pull miyataka/nginx-test-server:latest
 
     ```bash
     curl -v http://localhost:8080/?status=204
+
+    # or you can specify `sleep` as seconds
+    curl -v http://localhost:8080/?status=204&sleep=1
     ```
 
 ### Supported Status Codes
